@@ -1,6 +1,3 @@
-This is where your group will put your project, the Next Big Thing
-in apps!
-
 ![Demo pic 1](/terptune/images/brand.png)
 
 ## General Requirements
