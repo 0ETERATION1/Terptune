@@ -4,6 +4,10 @@ A song database/review app that utilizes the Flutter SDK
 
 ![Demo pic 1](/terptune/images/brand.png)
 
+## Demo Video
+
+https://www.youtube.com/watch?v=Hqsd523YFlc&t=6s
+
 ## Features
 
 * [x] Deployable on **Android & IOS**
