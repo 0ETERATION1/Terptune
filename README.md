@@ -2,6 +2,8 @@
 
 A song database/review app that utilizes the Flutter SDK
 
+![Demo pic 1](/terptune/images/brand.png)
+
 ## Features
 
 * [x] Deployable on **Android & IOS**
@@ -18,7 +20,7 @@ A song database/review app that utilizes the Flutter SDK
   * [x] Shake feature that recommends a song
 
 
-![Demo pic 1](/terptune/images/brand.png)
+
 
 ## General Requirements
 
