@@ -44,7 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBcnW3JuLXIbiJN6XsJwpZz47nkSMlihWM',
+    // ENTER YOUR APIKEY FROM GOOGLE FIREBASE
+    apiKey: '',
     appId: '1:1039845190462:web:693c1211373eea45aa1a6f',
     messagingSenderId: '1039845190462',
     projectId: 'terptune-f7746',
@@ -53,7 +54,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCwZlEXPBqITXN3BRTHzhkVCMdPOmj_fNY',
+    // ENTER YOUR APIKEY FROM GOOGLE FIREBASE
+    apiKey: '',
     appId: '1:1039845190462:android:a03821e138f6691baa1a6f',
     messagingSenderId: '1039845190462',
     projectId: 'terptune-f7746',
@@ -71,7 +73,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAUAnRoVK01N2OgySdvadXSFDo5NAQdAG8',
+    // ENTER YOUR APIKEY FROM GOOGLE FIREBASE
+    apiKey: '',
     appId: '1:1039845190462:ios:82b348da5b642dd3aa1a6f',
     messagingSenderId: '1039845190462',
     projectId: 'terptune-f7746',
