@@ -1,6 +1,6 @@
 # Terptune
 
-A song database/review app that utilizes the Flutter SDK
+A song database and review app built using Flutter
 
 ![Demo pic 1](/terptune/images/brand.png)
 
