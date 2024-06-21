@@ -128,3 +128,20 @@ or `Final.pdf`. It should have the following sections:
    process and the features you used that were not covered in class
  * Potential future directions
 
+# Getting Started with Your Flutter App
+
+Welcome to the Flutter app repository! This guide will help you clone the repo and set up Flutter on your local machine.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- You have installed [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+- You have installed [Flutter](https://flutter.dev/docs/get-started/install) (including Dart).
+
+## Clone the Repository
+
+1. Open your terminal (Command Prompt, PowerShell, or any terminal of your choice).
+2. Clone the repository by running the following command:
+   ```sh
+   git clone https://github.com/yourusername/your-repo-name.git
