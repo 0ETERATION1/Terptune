@@ -1,0 +1,34 @@
+import 'package:flutter/material.dart';
+import 'package:audioplayers/audioplayers.dart';
+
+class AudioPlayerProvider with ChangeNotifier {
+  final AudioPlayer _audioPlayer = AudioPlayer();
+  bool _isPlaying = false;
+  String? _currentPlayingUrl;
+
+  bool get isPlaying => _isPlaying;
+  String? get currentPlayingUrl => _currentPlayingUrl;
+
+  void playSong(String url) async {
+    if (_currentPlayingUrl != url) {
+      await _audioPlayer.stop();
+      await _audioPlayer.setSourceUrl(url);
+      _currentPlayingUrl = url;
+    }
+    await _audioPlayer.resume();
+    _isPlaying = true;
+    notifyListeners();
+  }
+
+  void pauseSong() async {
+    await _audioPlayer.pause();
+    _isPlaying = false;
+    notifyListeners();
+  }
+
+  @override
+  void dispose() {
+    _audioPlayer.dispose();
+    super.dispose();
+  }
+}
