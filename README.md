@@ -144,4 +144,8 @@ Before you begin, ensure you have met the following requirements:
 1. Open your terminal (Command Prompt, PowerShell, or any terminal of your choice).
 2. Clone the repository by running the following command:
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone git@github.com:0ETERATION1/Terptune.git
+3. Navigate to the folder in your file system
+4. Make sure you have flutter properly installed on your machine
+5. Install Dependencies by running this command: flutter pub get
+6. Start an emulator and run: flutter run
