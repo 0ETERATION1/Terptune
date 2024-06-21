@@ -128,9 +128,7 @@ or `Final.pdf`. It should have the following sections:
    process and the features you used that were not covered in class
  * Potential future directions
 
-# Getting Started with Your Flutter App
-
-Welcome to the Flutter app repository! This guide will help you clone the repo and set up Flutter on your local machine.
+# Installation Guide
 
 ## Prerequisites
 
@@ -145,7 +143,8 @@ Before you begin, ensure you have met the following requirements:
 2. Clone the repository by running the following command:
    ```sh
    git clone git@github.com:0ETERATION1/Terptune.git
+   
 3. Navigate to the folder in your file system
-4. Make sure you have flutter properly installed on your machine
-5. Install Dependencies by running this command: flutter pub get
-6. Start an emulator and run: flutter run
+4. Install Dependencies by running this command: flutter pub get
+5. Start an emulator and run: flutter run
+6. Enjoy the app!
