@@ -61,7 +61,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAUAnRoVK01N2OgySdvadXSFDo5NAQdAG8',
+    // ENTER YOUR APIKEY FROM GOOGLE FIREBASE
+    apiKey: '',
     appId: '1:1039845190462:ios:8f6855c131929ef1aa1a6f',
     messagingSenderId: '1039845190462',
     projectId: 'terptune-f7746',
