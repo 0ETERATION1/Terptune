@@ -1,3 +1,23 @@
+# Terptune
+
+A song database/review app that utilizes the Flutter SDK
+
+## Features
+
+* [x] Deployable on **Android & IOS**
+
+  * [x] Registration/log-in system upon app open
+  * [x] Play/Pause songs
+  * [x] Give a rating (0-5 stars) for songs and albums
+  * [x] Give a detailed review of songs and albums
+  * [x] View current top 100 songs on Spotify
+  * [x] Like/favorite songs and albums
+  * [x] Built-in recommendation feature!
+  * [x] Change user profile picture
+  * [x] Album Art
+  * [x] Shake feature that recommends a song
+
+
 ![Demo pic 1](/terptune/images/brand.png)
 
 ## General Requirements
