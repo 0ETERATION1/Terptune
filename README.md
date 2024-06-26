@@ -43,3 +43,11 @@ Before you begin, ensure you have met the following requirements:
 4. Install Dependencies by running this command: flutter pub get
 5. Start an emulator and run: flutter run
 6. Enjoy the app!
+
+
+## Contributors
+Andrew Muirhead
+Alexander Terskin
+Luke Stenger
+Elijah Ballard
+Liam Bilsbury
