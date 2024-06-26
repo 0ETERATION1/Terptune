@@ -46,8 +46,8 @@ Before you begin, ensure you have met the following requirements:
 
 
 ## Contributors
-Andrew Muirhead
-Alexander Terskin
-Luke Stenger
-Elijah Ballard
+Andrew Muirhead,
+Alexander Terskin,
+Luke Stenger,
+Elijah Ballard,
 Liam Bilsbury
